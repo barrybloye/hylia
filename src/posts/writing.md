@@ -6,4 +6,4 @@ tags:
   - blog
   - writing
 ---
-It seems appropriate to start a new blog with a post about writing.
+It seems somehow appropriate to start a new blog with a post about writing.
