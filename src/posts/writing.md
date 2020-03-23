@@ -6,4 +6,4 @@ tags:
   - blog
   - writing
 ---
-It seems somehow appropriate to start a new blog with a post about writing.
+It seems somehow appropriate to start a new blog with a post about writing. It's something I've been itching to do for a while, now.
